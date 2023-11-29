@@ -45,7 +45,7 @@
   }
   
   .mobile-menu {
-    display: none;
+    display: block;
     cursor: pointer;
   }
   
